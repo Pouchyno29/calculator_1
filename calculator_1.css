@@ -1,0 +1,30 @@
+div{
+	border: 2px solid black;
+	width: 367px;
+	padding: 5px;
+}
+
+button{
+	width: 80px;
+	height: 40px;
+}
+
+.btn{
+	font-size: 30px;
+}
+
+table, th, tr, td{
+	border: 3px solid red;
+}
+
+
+
+.input{
+	width: 365px;
+	height: 30px;
+	border: 1px solid red;
+	margin-bottom: 5px;
+	font-size: 25px;
+	text-align: right;
+	font-weight: bolder;
+}
